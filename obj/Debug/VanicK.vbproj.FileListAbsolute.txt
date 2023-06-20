@@ -1,0 +1,14 @@
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\vanick.Menu.resources
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\VanicK.exe.config
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\VanicK.exe
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\VanicK.pdb
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.vbproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.exe
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\VanicK.pdb
